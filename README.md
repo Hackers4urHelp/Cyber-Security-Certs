@@ -21,7 +21,9 @@ Here are some of the certifications that are provided by the below mentioned Org
 
 1. SANS and GIAC:
    ALL SANS AND GIAC CERTIFICATIONS HAVE A VALIDITY OF 4 YEARS AND NEED TO BE RENEWED IN THAT PERIOD OF TIME. SANS training is the best preparation available for GIAC Certification exams, and SANS training and GIAC Certifications can be purchased together here at sans.org, but you are not required to purchase training and certification together.
+   
    Link: https://www.giac.org/certifications/
+   
 *CLOUD SECURITY:*
 1.GIAC Cloud Security Automation (GCSA):
 
