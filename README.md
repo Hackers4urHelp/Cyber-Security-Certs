@@ -25,6 +25,7 @@ Here are some of the certifications that are provided by the below mentioned Org
    Link: https://www.giac.org/certifications/
    
 *CLOUD SECURITY:*
+
 1.GIAC Cloud Security Automation (GCSA):
 
 Link: https://www.giac.org/certifications/cloud-security-automation-gcsa/
