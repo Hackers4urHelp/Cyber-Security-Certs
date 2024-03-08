@@ -339,7 +339,10 @@ type: Offensive
 level: Intermediate
 
 
-GIAC Exploit Researcher and Advanced Penetration Tester (GXPN):
+8.GIAC Exploit Researcher and Advanced Penetration Tester (GXPN):
+
 Link: https://www.giac.org/certifications/exploit-researcher-advanced-penetration-tester-gxpn/
+
 type: Offensive
+
 level: Expert
