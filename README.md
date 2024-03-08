@@ -19,4 +19,13 @@ Embark on your cybersecurity journey with the Cybersecurity Certifications Repos
 
 Here are some of the certifications that are provided by the below mentioned Organizations:
 
+1. SANS AND GIAC: [https://www.sans.edu/] [https://www.giac.org/]
+2. TCM SECURITY: https://certifications.tcm-sec.com/ 
+3. INE: https://security.ine.com/ 
+4. CISCO: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html
+5. ISC2: https://www.isc2.org/
+6. EC-COUNCIL: https://www.eccouncil.org/
+7. CompTIA: https://partners.comptia.org/certifications
+8. OFFENSIVE SECURITY: https://www.offsec.com/
+
 
